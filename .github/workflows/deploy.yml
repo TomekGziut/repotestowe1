@@ -20,4 +20,4 @@ jobs:
         server: ftp.server115683.nazwa.pl
         username: server115683_master
         password: HatingNiggersFest911
-        server-dir: /testrepo
+        server-dir: /testrepo/
